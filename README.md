@@ -470,7 +470,6 @@
 
 ### UI
 
- - [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React.
  -
 
 
