@@ -448,7 +448,11 @@
 
 # Utilities
 
- -
+-
+
+###### REST API
+
+ - [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - Rest API provider for angular 2.
 
 ###### Framework bindings / integrations
 
