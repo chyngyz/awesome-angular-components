@@ -436,7 +436,7 @@
 *Boilerplates /  scaffolds / starter kits / generators / stack ensembles*
 
  - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit from AngularClass
- - [angular2-seed](https://mgechev.github.io/angular2-seed/) - High-quality, modular starter (seed) project for Angular 2 apps with statically typed build and AoT
+ - [angular-seed](https://mgechev.github.io/angular-seed/) - High-quality, modular starter (seed) project for Angular 2 apps with statically typed build and AoT
  - [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
  - [angular2-seed](https://github.com/angular/angular2-seed) - Angular 2 seed project from Angular team.
 
