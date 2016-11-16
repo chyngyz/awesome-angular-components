@@ -461,7 +461,7 @@
 
 ###### Integrations with Third Party Services
 
- -
+ - [angulartics2](https://github.com/angulartics/angulartics2) - Web analytics for Angular 2 applications
 
 
 # Tests
