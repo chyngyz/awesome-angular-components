@@ -263,6 +263,7 @@
 ###### Markdown / Text Editor
 
  - [ng2-ace](https://github.com/seiyria/ng2-ace) - A basic ace editor directive for angular 2.
+ - [angular2-froala-wysiwyg](https://github.com/froala/angular2-froala-wysiwyg) - AngularJS2 bindings for Froala WYSIWYG HTML Rich Text Editor.
 
 
 ###### Form Component Collections
