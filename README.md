@@ -57,7 +57,9 @@
 *A temporary little modal to notify the user*
 
  - [@ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular 2
-
+ - [Angular2-Toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular2 Toaster Notification library
+ - [ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
+ - [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular 2. It features both regular page notifications (toasts) and push notifications.
 
 ###### Tooltips
 
@@ -89,6 +91,7 @@
 
  - [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) - Simple progress bar control for your angular2 applications using bootstrap3.
  - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
+ - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
 
 
 ###### Carousels
@@ -107,6 +110,8 @@
 
  - [ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js
  - [ng2d3](https://swimlane.github.io/ng2d3/) - D3 + Angular2 Composable Re-usable Charting Framework
+ - [ng2-nvd3](https://github.com/krispo/ng2-nvd3) - Angular2 component for nvd3
+ - [angular2-chartist](https://paradox41.github.io/angular2-chartist/demo/) - Angular 2 component for Chartist.js
 
 
 ###### Display a Tree Data Structure
@@ -168,6 +173,9 @@
  - [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for Fontawesome
  - [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) - Very tiny and safe img for Angular 2
  - [ng2-img-fallback](https://vadimdez.github.io/ng2-img-fallback/) - Load placeholder image on image error
+ - [ng2-translate](https://github.com/ocombe/ng2-translate) - An implementation of angular translate for Angular 2.
+ - [angular-pipes](https://github.com/fknop/angular-pipes) - Angular 2 pipes library
+ - [angular2localization](https://github.com/robisim74/angular2localization) - An Angular 2 library to translate messages, dates and numbers.
 
 
 ### Component Collections
@@ -200,6 +208,8 @@
 ###### Drag and Drop
 
  - [ng2-dragula](http://valor-software.com/ng2-dragula/) - Simple drag and drop with dragula
+ - [ng2-dnd](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies
+
 
 ###### Autocomplete
 
@@ -248,6 +258,7 @@
 
  - [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular2 components for files upload
  - [fileDroppa](https://github.com/ptkach/fileDroppa) - Angular2 File Dropzone
+ - [ng2-uploader](https://github.com/jkuri/ng2-uploader) - Angular2 File Uploader
 
 
 ###### Autosize Input / Textarea
@@ -326,6 +337,8 @@
 
  - [Angular 2 Material](https://material.angular.io/) - Angular team's Material Design components built on top of Angular 2.
  - [md2](https://github.com/Promact/md2) - Angular2 based Material Design components
+ - [angular2-mdl](https://github.com/mseemann/angular2-mdl) - Angular 2 components, directives and styles based on material design lite
+ - [angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize) - Angular 2 support for Materialize CSS framework [https://github.com/Dogfalo/materialize](https://github.com/Dogfalo/materialize)
 
 
 # UI Utilites
@@ -360,6 +373,7 @@
 ###### Scroll Events
 
  - [ng2-scrollable](https://github.com/ng2-ui/ng2-scrollable) - Angular2 Automatic Scroll Detection With Animation
+ - [ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll) - Animated scrolling functionality written in pure angular2
 
 
 ###### Touch Events
@@ -424,12 +438,13 @@
 
 ###### HTML Template
 
- -
+ - [ng-html2js](https://github.com/yaru22/ng-html2js) - Standalone script to turn Angular template into js and put it in a module.
 
 
 ###### Isomorphic Apps
 
- -
+ - [Universal Angular 2](https://github.com/angular/universal) - Universal (isomorphic) javascript support for Angular2
+ - [Angular2 Universal Starter Kit](https://github.com/alexpods/angular2-universal-starter) - Enjoy Server Side rendering and Web Workers in your Angular2 Application
 
 
 ###### Boilerplate
@@ -440,11 +455,12 @@
  - [angular-seed](https://mgechev.github.io/angular-seed/) - High-quality, modular starter (seed) project for Angular 2 apps with statically typed build and AoT
  - [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
  - [angular2-seed](https://github.com/angular/angular2-seed) - Angular 2 seed project from Angular team.
+ - [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced) - An advanced Angular2 seed project with support for ngrx/store, ngrx/effects, ng2-translate, angulartics2, lodash, NativeScript, Electron (Mac, Windows and Linux desktop) and more.
 
 
 ###### Miscellaneous
 
- -
+ - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2
 
 
 # Utilities
@@ -454,11 +470,12 @@
 ###### REST API
 
  - [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - Rest API provider for angular 2.
+ - [angular2-jsonapi](https://github.com/ghidoz/angular2-jsonapi) - A lightweight Angular 2 adapter for JSON API
 
 ###### Framework bindings / integrations
 
- -
-
+ - [angularfire2](https://github.com/angular/angularfire2) - The official Angular 2 library for Firebase
+ - [angular2-apollo](http://dev.apollodata.com/angular2/) - Angular 2 integration for the Apollo Client
 
 ###### Integrations with Third Party Services
 
