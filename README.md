@@ -50,6 +50,10 @@
 *Display overlay / modal / dialog*
 
  - [ng2-popup](https://github.com/ng2-ui/ng2-popup) - Angular2 Modal Directive
+ - [angular2-modal](https://github.com/shlomiassaf/angular2-modal) - Angular2 Modal / Dialog window
+ - [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular2 Bootstrap3 Modal Component
+ - [ng2-bs4-modal](https://github.com/maxfisher05/ng2-bs4-modal) - Angular2 Bootstrap4 Modal Component
+
 
 
 ###### Notification
@@ -92,7 +96,7 @@
  - [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) - Simple progress bar control for your angular2 applications using bootstrap3.
  - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
  - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
-
+ - [ng2-loading-animate](https://github.com/oxycoder/ng2-loading-animate) - Loading animation for angular 2
 
 ###### Carousels
 
@@ -136,6 +140,7 @@
 *Audio / Video / PDF*
 
  - [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF Viewer Component for Angular 2
+ - [Videogular](https://github.com/videogular/videogular2) - The HTML5 video player for Angular 2
 
 
 ###### Map
@@ -150,37 +155,48 @@
 
 ###### Display time / date / age
 
- -
+ - [time-ago-pipe](https://github.com/AndrewPoyntz/time-ago-pipe) - An Angular 2 pipe for converting a date string into a time ago
+ - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular 2 date picker - Angular2 reusable UI component
 
 
 ###### Photo / Image Gallery
 
  -
 
+###### Social Media / Share Buttons
+
+ - [ng2-sharebuttons](https://murhafsousli.github.io/ng2-sharebuttons/) - Simple, lightweight, customizable share buttons with counts
+
 
 ###### Touch Swipe
 
  - [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - A small standalone Angular2 plugin that allows your card component to either swipe left or right.
+ - [angular2-useful-swiper](https://github.com/Useful-Software-Solutions-Ltd/angular2-useful-swiper) - Use iDangero.us's great slider Swiper in Angular 2.
 
 
 ###### Miscellaneous
 
  - [ng2-pagination](http://michaelbromley.github.io/ng2-pagination/) Pagination for Angular2
  - [ng2-meta](https://github.com/vinaygopinath/ng2-meta) - Dynamic meta tags and SEO in Angular2
- - [ng2-recaptcha](https://github.com/dethariel/ng2-recaptcha) - Angular 2 component for Google reCAPTCHA
  - [angular2-clickoutside-directive](https://github.com/AvraamMavridis/angular2-clickoutside-directive) - Angular 2 directive that provides Click Outside Functionality
- - [ng2-disqus](https://github.com/threesquared/ng2-disqus) - Angular 2 component for Disqus
  - [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for Fontawesome
  - [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) - Very tiny and safe img for Angular 2
  - [ng2-img-fallback](https://vadimdez.github.io/ng2-img-fallback/) - Load placeholder image on image error
  - [ng2-translate](https://github.com/ocombe/ng2-translate) - An implementation of angular translate for Angular 2.
  - [angular-pipes](https://github.com/fknop/angular-pipes) - Angular 2 pipes library
  - [angular2localization](https://github.com/robisim74/angular2localization) - An Angular 2 library to translate messages, dates and numbers.
+ - [Chomsky-NG2](http://bullhorn.github.io/chomsky-ng2/) - A lightweight Angular 2 i18n wrapper.
+ - [angular2-linky](https://github.com/dzonatan/angular2-linky) - Angular2 pipe to find links in text input and turn them into html links.
+ - [angular2 embedly](https://github.com/frnd/angular2-embedly) - embed.ly directive and service for Angular2
+ - [angular2-highlight-js](https://github.com/Useful-Software-Solutions-Ltd/angular2-highlight-js) - highlight.js integration with Angular2.
+ - [ng-dynamic](https://github.com/laco0416/ng-dynamic) - Dynamic Content Projection in Angular 2+
+ - [angular2-clipboard](https://github.com/maxisam/angular2-clipboard) - A wrapper directive for clipboard.js
 
 
 ### Component Collections
 
  - [NG2-UI](https://ng2-ui.github.io/) - A collection of quality Angular2 directives
+ - [ng2-ue-utils](https://github.com/gabyvs/ng2-ue-utils) - Set of angular2 components, directives, pipes and services that will be shared among unified experience SPAs.
 
 
 ### Form Components
@@ -230,12 +246,12 @@
 
 ###### Toggle
 
- -
+ - [angular2-feature-toggle](angular2-feature-toggle) - Your module to handle with feature toggles in Angular2 applications easier.
 
 
 ###### Slider
 
- -
+ - [ng2-nouislider demos](https://github.com/tb/ng2-nouislider) - Angular2 noUiSlider directive
 
 
 ###### Radio / Checkbox buttons
@@ -247,7 +263,7 @@
 
 *Let the user select a tag / something while typing*
 
- -
+ - [ng2-tag-input](https://github.com/Gbuomprisco/ng2-tag-input) - Tag Input component for Angular 2. Blandly inspired by Angular material's <md-chips>
 
 
 ###### Masked Input
@@ -285,13 +301,17 @@
 ###### Miscellaneous
 
  - [Ng2 Validators](https://github.com/gangachris/angular2-validators) - A List of validators for Angular 2 Forms based on validator.js
+ - [ng2-recaptcha](https://github.com/dethariel/ng2-recaptcha) - Angular 2 component for Google reCAPTCHA
+ - [angular2-recaptcha](https://github.com/xmaestro/angular2-recaptcha) - Angular 2 : Typescript component for Google reCaptcha
+ - [Angular2 Schema Form](https://github.com/makinacorpus/angular2-schema-form) - Angular2 Schema Form is an Angular2 module allowing you to instanciate an HTML form from a JSON schema.
+ - [angular2-prettyjson](https://github.com/matiboy/angular2-prettyjson) - A module for Angular 2 debug output of objects. Contains a pipe similar to JsonPipe but adds support for spacing and handling of circular structures.
 
 
 # UI Layout
 
 *Components to layout the app's UI*
 
- -
+ - [angular2-grid](A drag/drop/resize grid-based plugin directive for angular2)
 
 
 # UI Animation
@@ -325,6 +345,7 @@
  - [ngSemantic](https://ng-semantic.herokuapp.com/) - Angular2 building blocks based on Semantic UI
  - [Teradata Covalent UI Platform](https://teradata.github.io/covalent/#/) - UI platform built on Angular 2.0 + Material Design
  - [Fuel-UI](http://fuelinteractive.github.io/fuel-ui/#/) - A collection of native Angular 2 components, directives, and pipes for Bootstrap 4.
+ - [novo-elements](https://github.com/bullhorn/novo-elements) - UI Repository for Bullhorn's Novo Theme
 
 
 ###### Bootstrap
@@ -456,11 +477,13 @@
  - [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
  - [angular2-seed](https://github.com/angular/angular2-seed) - Angular 2 seed project from Angular team.
  - [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced) - An advanced Angular2 seed project with support for ngrx/store, ngrx/effects, ng2-translate, angulartics2, lodash, NativeScript, Electron (Mac, Windows and Linux desktop) and more.
+ - [angular2-rollup-starter](https://github.com/jkuri/angular2-rollup-starter) - Angular2 & Rollup.js including AoT and Universal support
 
 
 ###### Miscellaneous
 
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2
+ - [ng2-ui-auth](https://github.com/ronzeidman/ng2-ui-auth) - An angular2 repository for authentication based on angular1's satellizer
 
 
 # Utilities
@@ -471,15 +494,26 @@
 
  - [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - Rest API provider for angular 2.
  - [angular2-jsonapi](https://github.com/ghidoz/angular2-jsonapi) - A lightweight Angular 2 adapter for JSON API
+ - [ng2-restangular](https://github.com/2muchcoffeecom/ng2-restangular) - Restangular for Angular 2
 
 ###### Framework bindings / integrations
 
  - [angularfire2](https://github.com/angular/angularfire2) - The official Angular 2 library for Firebase
- - [angular2-apollo](http://dev.apollodata.com/angular2/) - Angular 2 integration for the Apollo Client
+ - [angular2-odata](https://github.com/gallayl/angular2-odata) - OData service for Angular2
+
 
 ###### Integrations with Third Party Services
 
  - [angulartics2](https://github.com/angulartics/angulartics2) - Web analytics for Angular 2 applications
+ - [ng2-wp-api](https://github.com/MurhafSousli/ng2-wp-api) - Angular2 WordPress Module
+ - [angular2-apollo](http://dev.apollodata.com/angular2/) - Angular 2 integration for the Apollo Client
+ - [ng2-cloudinary](https://github.com/ekito/ng2-cloudinary) - Angular2 components for Cloudinary image back-end
+ - [angular2-disqus](https://github.com/Useful-Software-Solutions-Ltd/angular2-disqus) - A DISQUS integration for Angular2
+ - [ng2-disqus](https://github.com/threesquared/ng2-disqus) - Angular 2 component for Disqus
+ - [pubnub-angular2](https://github.com/pubnub/pubnub-angular2) - Pubnub Angular2 service is a wrapper for PubNub JavaScript SDK version 4
+ - [selfbits-angular2-sdk](https://github.com/selfbits/selfbits-angular2-sdk) - Angular 2 SDK for Selfbits Backend-as-a-Service
+ - [stormpath-sdk-angular](Angular 2 Components for Stormpath) - Angular 2 Components for integrating with Stormpath's API
+ - [angular2-cloudtasks](https://github.com/Cloudtasks/angular2-cloudtasks) - Helps using Cloudtasks.io image processing task by substituting your images sources with the processing URL.
 
 
 # Tests
@@ -517,12 +551,17 @@
 ###### Redux
 
  - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management inspired by Redux for Angular 2 apps
+ - [tiny-ng-store](https://github.com/JScearcy/tiny-ng-store) - Small Angular 2 store for quick setup
+
 
 
 ###### Inspect
 
  - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Devtools for @ngrx/store
  - [@ngrx/store-log-monitor](https://github.com/ngrx/store-log-monitor) - Port of redux-devtools-log-monitor for Angular 2 and @ngrx/store-devtools
+ - [angular2-logger](https://github.com/code-chunks/angular2-logger) - A log4j inspired logger for angular 2.
+ - [ng2-logger](https://github.com/noemi-salaun/ng2-logger) - Angular 2 logger service
+
 
 
 ###### Miscellaneous
@@ -531,4 +570,4 @@
 
 # Miscellaneous
 
- -
+ - [Angular 2 IoT](https://github.com/urish/angular2-iot) - Internet of Things directives for Angular 2 (Led, Button, etc.)
