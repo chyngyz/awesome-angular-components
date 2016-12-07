@@ -120,6 +120,7 @@
 
 ###### Display a Tree Data Structure
 
+ - [angular2-tree-component](https://github.com/500tech/angular2-tree-component) - A simple yet powerful tree component for Angular2
  - [ng2-tree](https://github.com/valor-software/ng2-tree) - Angular2 Tree component
 
 
