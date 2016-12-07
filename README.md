@@ -133,7 +133,8 @@
 
 ###### Custom Scrollbar
 
- -
+ - [ng2-slimscroll](https://github.com/jkuri/ng2-slimscroll) - Angular2 Customizable Scrollbar Directive
+ - [angular2-perfect-scrollbar](https://github.com/zefoy/angular2-perfect-scrollbar) - Angular 2 wrapper library for perfect scrollbar
 
 
 ###### Media
@@ -242,7 +243,8 @@
 
 ###### Color Picker
 
- -
+ - [angular2-color-picker](https://github.com/Alberplz/angular2-color-picker) - Angular 2 Color Picker Directive, no dependences required.
+ - [ng2-color-picker](https://github.com/AndyMeps/ng2-color-picker) - Simple color picker for Angular 2
 
 
 ###### Toggle
@@ -424,7 +426,9 @@
 ###### Data Store
 
 *Data flow / data management / data stores / components state / data flow*
-
+ - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management inspired by Redux for Angular 2 apps
+ - [tiny-ng-store](https://github.com/JScearcy/tiny-ng-store) - Small Angular 2 store for quick setup
+ - [ng2-mobx](https://github.com/500tech/ng2-mobx) - MobX connector to Angular 2
  - [ng2-ui-storage](https://github.com/ng2-ui/ng2-ui-storage) - Provides memory storage fallback for localStorage and sessionStorage
  - [angular2-locker](https://github.com/MikaAK/angular2-locker) - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
  - [angular2-cookie](https://github.com/salemdar/angular2-cookie) - Implementation of Angular 1.x $cookies service to Angular 2
@@ -547,13 +551,6 @@
 
 
 # Dev Tools
-
-
-###### Redux
-
- - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management inspired by Redux for Angular 2 apps
- - [tiny-ng-store](https://github.com/JScearcy/tiny-ng-store) - Small Angular 2 store for quick setup
-
 
 
 ###### Inspect
