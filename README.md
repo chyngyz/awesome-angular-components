@@ -185,6 +185,7 @@
  - [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) - Very tiny and safe img for Angular 2
  - [ng2-img-fallback](https://vadimdez.github.io/ng2-img-fallback/) - Load placeholder image on image error
  - [ng2-translate](https://github.com/ocombe/ng2-translate) - An implementation of angular translate for Angular 2.
+ - [angular2-translate](https://github.com/Valetudox/angular2-translate) - simple translate service solution for Angular 2
  - [angular-pipes](https://github.com/fknop/angular-pipes) - Angular 2 pipes library
  - [angular2localization](https://github.com/robisim74/angular2localization) - An Angular 2 library to translate messages, dates and numbers.
  - [Chomsky-NG2](http://bullhorn.github.io/chomsky-ng2/) - A lightweight Angular 2 i18n wrapper.
