@@ -158,7 +158,6 @@
 ###### Display time / date / age
 
  - [time-ago-pipe](https://github.com/AndrewPoyntz/time-ago-pipe) - An Angular 2 pipe for converting a date string into a time ago
- - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular 2 date picker - Angular2 reusable UI component
 
 
 ###### Photo / Image Gallery
@@ -210,6 +209,8 @@
 ###### Date / Time picker
 
  - [ng2-datetime-picker](https://github.com/ng2-ui/ng2-datetime-picker) - Angular2 DateTime Picker
+ - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular 2 date picker - Angular2 reusable UI component
+ - [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) - Angular 2 Datepicker Component
 
 
 ###### Rich Text Editing
