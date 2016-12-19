@@ -300,7 +300,7 @@
 
 ###### Form Component Collections
 
- -
+ - [Angular Formly](https://ng2.angular-formly.com/) - JavaScript/JSON powered forms for Angular 2
 
 
 ###### Miscellaneous
