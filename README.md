@@ -101,6 +101,7 @@
  - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
  - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
  - [ng2-loading-animate](https://github.com/oxycoder/ng2-loading-animate) - Loading animation for angular 2
+ - [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) Simple Angular 2 Circle Progress Component
 
 ###### Carousels
 
@@ -221,7 +222,7 @@
 
 ###### Rich Text Editing
 
- -
+ - [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) An Angular 2 Component to edit inline any text.
 
 
 ###### Sortable List
