@@ -3,6 +3,8 @@
 > Catalog of Angular 2 components / libraries
 
  - Contributions welcome, see [contribution guide](contribute.md)
+ 
+> A curated list of helpful material to start learning Angular 2 - [Angular 2 Education](https://github.com/timjacobi/angular2-education)
 
 <br/>
 
@@ -186,6 +188,7 @@
  - [ng2-translate](https://github.com/ocombe/ng2-translate) - An implementation of angular translate for Angular 2.
  - [angular2-translate](https://github.com/Valetudox/angular2-translate) - simple translate service solution for Angular 2
  - [angular-pipes](https://github.com/fknop/angular-pipes) - Angular 2 pipes library
+ - [ng-pipes](https://github.com/danrevah/ng-pipes) - Useful pipes for Angular 2+ with no external dependencies!
  - [angular2localization](https://github.com/robisim74/angular2localization) - An Angular 2 library to translate messages, dates and numbers.
  - [Chomsky-NG2](http://bullhorn.github.io/chomsky-ng2/) - A lightweight Angular 2 i18n wrapper.
  - [angular2-linky](https://github.com/dzonatan/angular2-linky) - Angular2 pipe to find links in text input and turn them into html links.
@@ -290,7 +293,7 @@
 
 ###### Image Editing
 
- -
+ - [angular2-img-cropper](https://github.com/cstefanache/angular2-img-cropper) - Angular 2 Image Cropper
 
 
 ###### Markdown / Text Editor
