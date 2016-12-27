@@ -211,6 +211,7 @@
  - [ng2-datetime-picker](https://github.com/ng2-ui/ng2-datetime-picker) - Angular2 DateTime Picker
  - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular 2 date picker - Angular2 reusable UI component
  - [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) - Angular 2 Datepicker Component
+ - [ng2-date-picker](https://github.com/vlio20/ng2-date-picker) - Highly configurable date picker built for Angular 2
 
 
 ###### Rich Text Editing
