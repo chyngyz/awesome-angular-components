@@ -1,3 +1,5 @@
+# ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
+
 # Awesome Angular 2 Components Catalog
 
 > Catalog of Angular 2 components / libraries
