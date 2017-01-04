@@ -41,7 +41,7 @@
  - [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable
  - [ag-grid](https://www.ag-grid.com/) - Advanced Data Grid
  - [ng2-smart-table](https://akveo.github.io/ng2-smart-table/) - Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
- - [angular2-data-table](https://github.com/swimlane/angular2-data-table) - A feature-rich yet lightweight data-table crafted for Angular2
+ - [ngx-datatable](https://github.com/swimlane/ngx-datatable) - A feature-rich yet lightweight data-table crafted for Angular2
 
 ###### Infinite Scroll
 
@@ -113,8 +113,7 @@
  -
 
 
-###### 
-s
+###### Charts
 
 *Displays data in graphs / diagrams*
 
@@ -207,6 +206,7 @@ s
 
  - [NG2-UI](https://ng2-ui.github.io/) - A collection of quality Angular2 directives
  - [ng2-ue-utils](https://github.com/gabyvs/ng2-ue-utils) - Set of angular2 components, directives, pipes and services that will be shared among unified experience SPAs.
+ - [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 
 
 ### Form Components
