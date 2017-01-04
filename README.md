@@ -113,7 +113,8 @@
  -
 
 
-###### Charts
+###### 
+s
 
 *Displays data in graphs / diagrams*
 
@@ -121,6 +122,7 @@
  - [ng2d3](https://swimlane.github.io/ng2d3/) - D3 + Angular2 Composable Re-usable Charting Framework
  - [ng2-nvd3](https://github.com/krispo/ng2-nvd3) - Angular2 component for nvd3
  - [angular2-chartist](https://paradox41.github.io/angular2-chartist/demo/) - Angular 2 component for Chartist.js
+ - [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 
 
 ###### Display a Tree Data Structure
