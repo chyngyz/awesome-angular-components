@@ -452,7 +452,6 @@
 
 ###### Router
 
- - [UI-Router](https://ui-router.github.io/ng2/) - UI-Router for Angular 2
  - [@ngrx/router](https://github.com/ngrx/router) - Reactive Router for Angular 2
 
 
