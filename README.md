@@ -1,12 +1,12 @@
 # ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
 
-# Awesome Angular 2 Components Catalog
+# Awesome Angular (v2^) Components Catalog
 
-> Catalog of Angular 2 components / libraries
+> Catalog of Angular components / modules / libraries
 
  - Contributions welcome, see [contribution guide](contribute.md)
  
-> A curated list of helpful material to start learning Angular 2 - [Angular 2 Education](https://github.com/timjacobi/angular2-education)
+> A curated list of helpful material to start learning Angular - [Angular 2 Education](https://github.com/timjacobi/angular2-education)
 
 <br/>
 
@@ -168,7 +168,7 @@
 
 ###### Photo / Image Gallery
 
- -
+ - [ng2-image-gallery](https://github.com/bergben/ng2-image-gallery) - Basic Angular 2 image gallery using Bootstrap 4 and Fontawesome
 
 ###### Social Media / Share Buttons
 
