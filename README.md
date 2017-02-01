@@ -207,7 +207,7 @@
  - [NG2-UI](https://ng2-ui.github.io/) - A collection of quality Angular2 directives
  - [ng2-ue-utils](https://github.com/gabyvs/ng2-ue-utils) - Set of angular2 components, directives, pipes and services that will be shared among unified experience SPAs.
  - [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
- - [jQWidgets](http://www.jqwidgets.com/angular/) -  jQWidgets Angular 2 UI components
+
 
 
 ### Form Components
@@ -361,6 +361,7 @@
  - [Teradata Covalent UI Platform](https://teradata.github.io/covalent/#/) - UI platform built on Angular 2.0 + Material Design
  - [Fuel-UI](http://fuelinteractive.github.io/fuel-ui/#/) - A collection of native Angular 2 components, directives, and pipes for Bootstrap 4.
  - [novo-elements](https://github.com/bullhorn/novo-elements) - UI Repository for Bullhorn's Novo Theme
+ - [jQWidgets](http://www.jqwidgets.com/angular/) -  jQWidgets Angular 2 UI components
 
 
 ###### Bootstrap
