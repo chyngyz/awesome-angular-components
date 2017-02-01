@@ -207,6 +207,7 @@
  - [NG2-UI](https://ng2-ui.github.io/) - A collection of quality Angular2 directives
  - [ng2-ue-utils](https://github.com/gabyvs/ng2-ue-utils) - Set of angular2 components, directives, pipes and services that will be shared among unified experience SPAs.
  - [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
+ - [jQWidgets](http://www.jqwidgets.com/angular/) -  jQWidgets Angular 2 UI components
 
 
 ### Form Components
