@@ -91,7 +91,11 @@
 ###### Tabs
 
  - [ng2-tab](https://github.com/ng2-ui/ng2-tab) - Angular 2 Tab Component
+ 
 
+###### Breadcrumbs
+ 
+ - [ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - Dynamic breadcrumb trail.
 
 ###### Loading / Progress Indicators
 
@@ -326,7 +330,7 @@
 
 *Components to layout the app's UI*
 
- - [angular2-grid](A drag/drop/resize grid-based plugin directive for angular2)
+ - [angular2-grid](https://github.com/BTMorton/angular2-grid) - A drag/drop/resize grid-based plugin directive for angular2
 
 
 # UI Animation
