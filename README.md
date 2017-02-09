@@ -1,6 +1,6 @@
 # ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
 
-# Awesome Angular (v2^) Components Catalog
+# Awesome Angular (v2^) Components Catalog - This project is no longer supported. Please refer to [Angular Components](http://devarchy.com/angular-components)
 
 > Catalog of Angular components / modules / libraries
 
